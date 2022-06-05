@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("第二次更新");
         System.out.println("第三次更新");
         System.out.println("dev添加");
+        System.out.println("测试推送本地库到远程库");
     }
 }
